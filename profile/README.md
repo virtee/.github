@@ -3,6 +3,8 @@
   -- SPDX-License-Identifier: Apache-2.0
 --->
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8919/badge)](https://www.bestpractices.dev/projects/8919)
+
 # Welcome to VirTEE
 <font size="6
 ">
