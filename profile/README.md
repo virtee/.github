@@ -13,7 +13,7 @@ _VirTEE_: **Vir**tualized **T**rusted **E**xecution **E**nvironments
 
 <p/>
 <p align="center">
-  <img src="./virtee-logo.png"/>
+  <img width="20%" src="https://raw.githubusercontent.com/virtee/.github/main/virtee-logo-color.svg"/>
 </p>
 
 ## Briefly
