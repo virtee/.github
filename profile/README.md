@@ -34,7 +34,7 @@ that specific project.
 
 ## Code of Conduct
 
-The project applies a Code of Conduct that can be found [here](./CODE_OF_CONDUCT.md).
+The project applies a Code of Conduct that can be found [here](/CODE_OF_CONDUCT.md).
 
 ## Community
 
